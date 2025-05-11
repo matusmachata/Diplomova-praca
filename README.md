@@ -2,13 +2,13 @@
 Tento repozitár obsahuje zdrojový kód a súvisiace materiály k mojej diplomovej práci.
 
 ## 📁 Štruktúra projektu
-
+V adresári segmentationPytorch je možné nájsť všetok python kód použitý pri vypracovávaní tejto diplomovej práce
 ```
 Diplomova-praca/
-├── pythonProject/       # Hlavný adresár s implementáciou v jazyku Python
-├── .gitignore           # Súbor určujúci, ktoré súbory ignorovať v Gite
-├── LICENSE              # Licenčné podmienky (Apache 2.0)
-└── README.md            # Tento súbor s informáciami o projekte
+├── segmentationPytorch/       
+├── .gitignore           
+├── LICENSE              
+└── README.md           
 ```
 
 ## 🛠️ Požiadavky
