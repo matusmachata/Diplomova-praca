@@ -2,7 +2,7 @@
 Tento repozitár obsahuje zdrojový kód a súvisiace materiály k mojej diplomovej práci.
 
 ## 📁 Štruktúra projektu
-V adresári segmentationPytorch je možné nájsť všetok python kód použitý pri vypracovávaní tejto diplomovej práce
+V adresári segmentationPytorch je možné nájsť všetok python kód použitý pri vypracovávaní tejto diplomovej práce. Každý python skript má špecifký cieľ z hľadiska segmentácie exudátov a štruktúry neurónovej siete.
 ```
 Diplomova-praca/
 ├── segmentationPytorch/       
